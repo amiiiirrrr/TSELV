@@ -1,1 +1,1 @@
-# Tumor-Size-Estimation-in-Monocular-Laparoscopic-Videos
+# Tumor Size Estimation in Monocular Laparoscopic Videos
